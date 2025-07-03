@@ -7,7 +7,7 @@
 
 🌱 I'm currently learning fullstack web development  
 💡 I enjoy building both hardware-based and web-based projects  
-📫 Reach me at: [@fajarhrmawann](mailto:Fajar.hermawan092001@gmail.com)
+📫 Reach me at: [Fajar.hermawan092001@gmail.com](mailto:Fajar.hermawan092001@gmail.com)
 
 ---
 
@@ -43,7 +43,11 @@
   <a href="mailto:Fajar.hermawan092001@gmail.com">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/fajarhermawan">
+  <a href="https://github.com/FajarHermawn">
     <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://instagram.com/fajarhrmawann">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
+
