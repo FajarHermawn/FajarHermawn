@@ -25,7 +25,12 @@
 - ✅ **Portfolio Website** – upload, edit, and delete project data using PostgreSQL and TailwindCSS  
 - ✅ **Auto Watering System** – RTC & soil moisture-based pump control  
 - ✅ **Photosynthesis Simulation** – 24-hour light control using relays & LCD  
-- ✅ **Travel Website** – TailwindCSS + responsive layout + SwiperJS carousel
+- 🚧 **Travel Website** — Website promosi pariwisata bertema "Visit Indonesia"  
+  > Menggunakan TailwindCSS, SwiperJS, dan responsive layout  
+  > Status: Dalam pengembangan (penyempurnaan UI dan optimasi gambar)
+- 💡 **Travel Booking System** — Rencana pengembangan sistem booking destinasi wisata  
+  > Akan terintegrasi dengan form, validasi, dan database
+
 
 ---
 
